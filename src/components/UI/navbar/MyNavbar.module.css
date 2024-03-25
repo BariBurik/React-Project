@@ -1,0 +1,13 @@
+.navbar {
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    background: lightgray;
+}
+.navbar__link {
+    color: teal;
+    text-decoration: none;
+}
